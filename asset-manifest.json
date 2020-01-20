@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recommend-a-movie-release/static/css/main.482b200b.chunk.css",
+    "main.js": "/recommend-a-movie-release/static/js/main.4656eb91.chunk.js",
+    "main.js.map": "/recommend-a-movie-release/static/js/main.4656eb91.chunk.js.map",
+    "runtime-main.js": "/recommend-a-movie-release/static/js/runtime-main.467a71dd.js",
+    "runtime-main.js.map": "/recommend-a-movie-release/static/js/runtime-main.467a71dd.js.map",
+    "static/js/2.0ba41a17.chunk.js": "/recommend-a-movie-release/static/js/2.0ba41a17.chunk.js",
+    "static/js/2.0ba41a17.chunk.js.map": "/recommend-a-movie-release/static/js/2.0ba41a17.chunk.js.map",
+    "index.html": "/recommend-a-movie-release/index.html",
+    "precache-manifest.985293b85fdb07ecfae251ad40f5011b.js": "/recommend-a-movie-release/precache-manifest.985293b85fdb07ecfae251ad40f5011b.js",
+    "service-worker.js": "/recommend-a-movie-release/service-worker.js",
+    "static/css/main.482b200b.chunk.css.map": "/recommend-a-movie-release/static/css/main.482b200b.chunk.css.map",
+    "static/js/2.0ba41a17.chunk.js.LICENSE": "/recommend-a-movie-release/static/js/2.0ba41a17.chunk.js.LICENSE",
+    "static/media/not-found.png": "/recommend-a-movie-release/static/media/not-found.d53a55c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.467a71dd.js",
+    "static/js/2.0ba41a17.chunk.js",
+    "static/css/main.482b200b.chunk.css",
+    "static/js/main.4656eb91.chunk.js"
+  ]
+}
